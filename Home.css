@@ -365,14 +365,13 @@
     margin-right: 0;
   }
 
-  .u-section-2 .u-text-3 
-  {
-    line-height: 1.4;
-    font-family: "2-questa.grande.regular.31";
-    margin-top: -128px;
-    margin-left: 6px;
-    margin-right: 6px;
-  }
+    .u-section-2 .u-text-3 {
+        line-height: 1.4;
+        font-family: "Hiragino Mincho ProN W3", "ヒラギノ明朝 ProN W3", "Hiragino Mincho ProN","游明朝", YuMincho, "HG明朝E", "ＭＳ Ｐ明朝", "ＭＳ 明朝", serif;
+        margin-top: -128px;
+        margin-left: 6px;
+        margin-right: 6px;
+    }
 
   .u-section-2 .u-text-4 {
     margin-top: 96px;
