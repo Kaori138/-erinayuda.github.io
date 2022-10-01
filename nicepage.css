@@ -5755,28 +5755,7 @@ ul.u-text li:last-child {
   margin-right: 0 !important;
   margin-bottom: 0px;
 }
-.u-backlink {
-  position: relative;
-  text-align: center;
-  padding: 1em;
-}
-.u-backlink a:first-letter {
-  text-transform: capitalize;
-}
-.u-backlink a,
-.u-backlink p {
-  display: inline-block;
-}
-.u-backlink span {
-  font-size: 0.8rem;
-}
-.u-backlink .u-link {
-  text-decoration: underline;
-}
-.u-backlink span,
-.u-backlink .u-link:hover {
-  text-decoration: none;
-}
+
 .u-hidden {
   display: none !important;
 }
@@ -22490,7 +22469,7 @@ a.u-button-style.u-border-20 {
 }
 /*begin-variables font-family*/
 .u-body {
-    font-family: "2-questa_grande_regular_31", 'Open Sans',sans-serif;
+    font-family: "Hiragino Mincho ProN W3", "ヒラギノ明朝 ProN W3", "Hiragino Mincho ProN","游明朝", YuMincho, "HG明朝E", "ＭＳ Ｐ明朝", "ＭＳ 明朝", serif;
 }
 h1,
 h2,
@@ -22519,10 +22498,11 @@ h6 {
 /*end-variables color*/
 /*begin-variables font*/
 .u-custom-font.u-text-font {
-  font-family: 'Open Sans',sans-serif !important;
+font-family: "Hiragino Mincho ProN W3", "ヒラギノ明朝 ProN W3", "Hiragino Mincho ProN","游明朝", YuMincho, "HG明朝E", "ＭＳ Ｐ明朝", "ＭＳ 明朝", serif;
+    
 }
 .u-custom-font.u-heading-font {
-  font-family: Roboto,sans-serif !important;
+font-family: "Hiragino Mincho ProN W3", "ヒラギノ明朝 ProN W3", "Hiragino Mincho ProN","游明朝", YuMincho, "HG明朝E", "ＭＳ Ｐ明朝", "ＭＳ 明朝", serif;
 }
 /*end-variables font*/
 /*begin-variables colors*/
