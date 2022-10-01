@@ -38857,128 +38857,139 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 }
 
- .u-footer {
-  background-image: none;
+
+.u-footer {
+    background-image: none;
 }
 
-.u-footer .u-sheet-1 {
-  min-height: 139px;
-}
+    .u-footer .u-sheet-1 {
+        min-height: 113px;
+    }
 
-.u-footer .u-group-1 {
-  width: 679px;
-  min-height: 87px;
-  --animation-custom_in-translate_x: 0px;
-  --animation-custom_in-scale: 1;
-  --animation-custom_in-translate_y: 300px;
-  height: auto;
-  margin: 26px auto;
-}
+    .u-footer .u-group-1 {
+        width: 679px;
+        min-height: 87px;
+        --animation-custom_in-translate_x: 0px;
+        --animation-custom_in-scale: 1;
+        --animation-custom_in-translate_y: 300px;
+        height: auto;
+        margin: 26px auto 0;
+    }
 
-.u-footer .u-container-layout-1 {
-  padding-left: 7px;
-  padding-right: 7px;
-}
+    .u-footer .u-container-layout-1 {
+        padding-left: 7px;
+        padding-right: 7px;
+    }
 
-.u-footer .u-text-1 {
-  font-size: 1.5rem;
-  margin: 6px 23px 0;
-}
+    .u-footer .u-text-1 {
+        font-size: 1.5rem;
+        margin: 6px 23px 0;
+    }
 
-.u-footer .u-text-2 {
-  font-size: 1rem;
-  width: 473px;
-  margin: 0 auto;
-}
+    .u-footer .u-text-2 {
+        font-size: 1rem;
+        width: 473px;
+        margin: 0 auto;
+    }
 
-.u-footer .u-icon-1 {
-  margin-top: 7px;
-}
+    .u-footer .u-icon-1 {
+        margin-top: 7px;
+    }
+
 @media (max-width: 1199px) {
-  .u-footer .u-sheet-1 {
-    min-height: 99px;
-  }
+    .u-footer .u-sheet-1 {
+        min-height: 106px;
+    }
 
-  .u-footer .u-group-1 {
-    width: 679px;
-    min-height: 106px;
-    height: auto;
-  }
+    .u-footer .u-group-1 {
+        width: 679px;
+        min-height: 80px;
+        height: auto;
+    }
 
-  .u-footer .u-text-1 {
-    margin-top: 4px;
-  }
+    .u-footer .u-text-1 {
+        margin-top: 4px;
+    }
 
-  .u-footer .u-text-2 {
-    width: 378px;
-    margin-top: 0;
-  }
+    .u-footer .u-text-2 {
+        width: 378px;
+        margin-top: 0;
+    }
 }
+
 @media (max-width: 991px) {
-  .u-footer .u-sheet-1 {
-    min-height: 76px;
-  }
+    .u-footer .u-sheet-1 {
+        min-height: 117px;
+    }
 
-  .u-footer .u-group-1 {
-    min-height: 91px;
-  }
+    .u-footer .u-group-1 {
+        min-height: 91px;
+    }
 
-  .u-footer .u-text-1 {
-    width: auto;
-    margin-top: 5px;
-  }
+    .u-footer .u-text-1 {
+        width: auto;
+        margin-top: 5px;
+    }
 
-  .u-footer .u-text-2 {
-    width: 388px;
-    margin-top: 5px;
-  }
+    .u-footer .u-text-2 {
+        width: 388px;
+        margin-top: 5px;
+    }
 }
+
 @media (max-width: 767px) {
-  .u-footer .u-sheet-1 {
-    min-height: 57px;
-  }
+    .u-footer .u-sheet-1 {
+        min-height: 106px;
+    }
 
-  .u-footer .u-group-1 {
-    width: 540px;
-    min-height: 85px;
-  }
+    .u-footer .u-group-1 {
+        min-height: 70px;
+        margin-bottom: 10px;
+        margin-right: initial;
+        margin-left: initial;
+        width: auto;
+    }
 
-  .u-footer .u-text-1 {
-    font-size: 1.25rem;
-    margin-top: 7px;
-    margin-left: 0;
-    margin-right: 0;
-  }
+    .u-footer .u-text-1 {
+        font-size: 1.25rem;
+        margin-top: 7px;
+        margin-left: 0;
+        margin-right: 0;
+    }
 
-  .u-footer .u-text-2 {
-    width: 221px;
-    margin-top: 0;
-  }
+    .u-footer .u-text-2 {
+        width: 221px;
+        margin-top: 0;
+    }
 }
+
 @media (max-width: 575px) {
-  .u-footer .u-sheet-1 {
-    min-height: 36px;
-  }
+    .u-footer .u-sheet-1 {
+        min-height: 88px;
+    }
 
-  .u-footer .u-group-1 {
-    min-height: 78px;
-    margin-right: initial;
-    margin-left: initial;
-    width: auto;
-  }
+    .u-footer .u-group-1 {
+        min-height: 52px;
+        margin-bottom: 10px;
+        width: auto;
+        margin-right: initial;
+        margin-left: initial;
+    }
 
-  .u-footer .u-text-1 {
-    font-size: 1.125rem;
-    margin-top: 0;
-  }
+    .u-footer .u-text-1 {
+        font-size: 1.125rem;
+        margin-top: 0;
+    }
 
-  .u-footer .u-text-2 {
-    font-size: 0.75rem;
-    width: 150px;
-    margin-top: 3px;
-  }
+    .u-footer .u-text-2 {
+        font-size: 0.75rem;
+        width: 150px;
+        margin-top: 3px;
+    }
 }
 
- /*begin-variables base-font-size*/ 
- html { font-size: 16px; }
- /*end-variables base-font-size*/
+/*begin-variables base-font-size*/
+html {
+    font-size: 16px;
+}
+/*end-variables base-font-size*/
