@@ -1,4 +1,4 @@
-﻿ .u-section-1 {
+ .u-section-1 {
   background-image: none;
 }
 
@@ -11,7 +11,7 @@
   font-style: normal;
   line-height: 1.2;
   text-transform: uppercase;
-  font-family: "Hiragino Mincho ProN W3", "ヒラギノ明朝 ProN W3", "Hiragino Mincho ProN","游明朝", YuMincho, "HG明朝E", "ＭＳ Ｐ明朝", "ＭＳ 明朝", serif;
+  font-family: "2-questa_grande_regular_31";
   font-weight: normal;
   margin: 37px 112px 0;
 }
@@ -60,7 +60,7 @@
 
 .u-section-2 .u-table-1 {
   width: 820px;
-  margin: 60px auto;
+  margin: 64px 148px 60px auto;
 }
 
 .u-section-2 .u-table-entity-1 {
@@ -80,9 +80,16 @@
   font-size: 1.125rem;
 }
 
+@media (max-width: 1199px) {
+  .u-section-2 .u-table-1 {
+    margin-right: 120px;
+  }
+}
+
 @media (max-width: 991px) {
   .u-section-2 .u-table-1 {
     width: 720px;
+    margin-right: 0;
   }
 }
 
@@ -162,12 +169,12 @@
     font-size: 0.875rem;
   }
 }.u-section-4 .u-sheet-1 {
-  min-height: 2410px;
+  min-height: 2259px;
 }
 
 .u-section-4 .u-table-1 {
   width: 820px;
-  margin: 60px auto 30px;
+  margin: 60px auto;
 }
 
 .u-section-4 .u-table-entity-1 {
@@ -189,7 +196,7 @@
 
 @media (max-width: 991px) {
   .u-section-4 .u-sheet-1 {
-    min-height: 2570px;
+    min-height: 2447px;
   }
 
   .u-section-4 .u-table-1 {
@@ -201,7 +208,7 @@
 
 @media (max-width: 767px) {
   .u-section-4 .u-sheet-1 {
-    min-height: 3227px;
+    min-height: 2935px;
   }
 
   .u-section-4 .u-table-1 {
@@ -211,7 +218,7 @@
 
 @media (max-width: 575px) {
   .u-section-4 .u-sheet-1 {
-    min-height: 3055px;
+    min-height: 2768px;
   }
 
   .u-section-4 .u-table-1 {
